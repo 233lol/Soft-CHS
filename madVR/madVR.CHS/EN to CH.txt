@@ -371,7 +371,7 @@ madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentC
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.1	flush	刷新	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.2	flush & wait (sleep)	刷新和等待（休眠）	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.AfterPresentComboExcl.3	flush & wait (loop)	刷新和等待（循环）	
-madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.SeekbarCheck.Caption	show seek bar	显示搜索栏	
+madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.SeekbarCheck.Caption	show seek bar	显示进度条
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.ExclDelayCheck.Caption	delay switch to exclusive mode by 3 seconds	延迟切换到独占模式3秒	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.NewExclPathCheck.Caption	present several frames in advance	预加载帧	
 madHcCtrl.exe.Forms.TFMADVRSETTINGS.PageControl1.ExclusiveTweakTab.PresentThreadCheck.Caption	run presentation in a separate thread	在单独的线程中预加载	
